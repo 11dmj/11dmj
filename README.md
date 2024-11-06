@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @11dmj, actually Done Mariya James
+- 👋 Hi, I am Done Mariya James
 - 👀 I’m a software developer who is interested in learning new techs and abitious to become a full stack developer
-- 🌱 I’m currently having experience in .NET Technologies(upgrading to .NET 6.0) and frontend like React.js, Redux.
+- 🌱 I’m currently having experience in .NET Technologies and frontend like React.js, Redux.
 -
 - 📫 How to reach me donemjsoftdev@gmail.com
 
